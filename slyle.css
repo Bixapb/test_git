@@ -1,0 +1,28 @@
+:root {
+    --squad-color1: #1C2A33;
+    --squad-color2: #18CFAB;
+    ;
+}
+
+.content {
+    height: 375px;
+    background-color: var(--squad-color1);
+}
+
+.content2 {
+    height: 375px;
+    background-color: var(--squad-color2);
+}
+
+.content,
+.content2 {
+    text-transform: uppercase;
+}
+
+.icons1 {
+    color: var(--squad-color2);
+}
+
+.icons2 {
+    color: #ffff;
+}
